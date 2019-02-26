@@ -1,0 +1,25 @@
+@media screen and (max-width: 800px) {
+.site-footer{
+	display: none;
+}
+.page-header-wrap {
+    display: none;
+  }
+.col-md-3{
+	float: none;
+	width: 10%
+}
+.PanelHeader{
+	display: none;
+}
+}
+
+@media screen and (min-width: 801px) and (max-width: 1440px) {
+	.PanelHeader{
+	display: none;
+}
+}
+
+@media screen and (min-width 1441px){
+	
+}
